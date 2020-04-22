@@ -1,0 +1,13 @@
+.markdown-body {
+  p, li {
+    font-size: 14px;
+  }
+
+  .page-break {
+      page-break-after: always;
+  }
+
+  .distance {
+      margin-top: 70px;
+  }
+}
